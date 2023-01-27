@@ -4,7 +4,10 @@
     padding: 0;
     font-family: Arial;
 }
+.logo{ background: none;
 
+
+}
 nav{
     position: absolute;
     background-color:blueviolet;
