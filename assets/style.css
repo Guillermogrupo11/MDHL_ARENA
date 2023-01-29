@@ -10,6 +10,7 @@
       box-sizing: border-box;
   }
   
+  
   body{
       font-family: 'Noto Serif', serif;
       font-family: 'PT Serif', serif;
@@ -44,15 +45,21 @@
   }
   
   .div-nav{
-      position: absolute;
-      top: -20px;
-      right: -6px;
+    position: absolute;
+    top: 500px;
+    left: -55px;
+    width: 250px;
+    height: 100%;
+    padding: 10px;
+      
+      
   }
   
   
   
   li{
-      display: inline;
+    display: block;
+    padding: 30px 10px;
   }
   
   #ref{
@@ -90,9 +97,13 @@
   
   
   #img-logo{
-      width: 130px;
-      height: 130px;
-      margin: 30px 70px 30px 10px;
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 1200px;
+    top: 450px;
+    background-color: grey;
+      
   }
   
   h2{
@@ -108,10 +119,13 @@
       font-style: italic;
   
   }
-  
   article{
-      margin-top: 25px;
-  }
+    padding-top: 50px;
+    margin-left: 200px;
+    
+    
+}
+  
   
   #contact{
       margin-top: 20px;
