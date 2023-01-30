@@ -24,6 +24,7 @@
   h1{
       font-size: 3rem;
       font-style: italic;
+      
   }
   
   .nav-img{
@@ -80,6 +81,7 @@
       font-size: 2rem;
       border: 2px solid black;
       margin-top: -3px;
+      background-color: aquamarine;
   }
   
   
@@ -89,17 +91,20 @@
       margin: 30px 70px 30px 10px;
       background-color: grey;
       border-radius: 10px;
+      border-style: double;
   }
   
   h2{
       font-family: Arial, Helvetica, sans-serif;
       background-color: aqua;
+      border-style: double;
   }
   
   h3,h2, p{
       font-weight: bolder;
       background-color: grey;
       border-radius: 10px;
+      border-style: double;
   }
   
   h3{
